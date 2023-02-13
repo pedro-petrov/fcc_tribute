@@ -1,0 +1,34 @@
+@font-face {
+    font-family: BruceForever ;
+    src: url(./font/BruceForeverRegular.ttf);
+}
+
+body {
+    background-color: #233142;
+}
+
+h1 {
+    text-align: center;
+    font-family: BruceForever;
+    color:antiquewhite
+}
+
+img {
+    display: block;
+    width: 80%;
+    height: 80%;
+    margin: 0 auto;
+}
+
+#img-caption {
+    text-align: center;
+    margin-top: -5px;
+}
+
+#tribute-info {
+    text-align: center;
+}
+
+#tribute-link {
+    text-align: center;
+}
